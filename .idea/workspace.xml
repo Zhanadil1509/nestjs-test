@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6446d3c5-b306-4e67-a7fb-1ce088385e0b" name="Default Changelist" comment="create src">
+      <change beforePath="$PROJECT_DIR$/src/server/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/nest-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/src/app.controller.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/src/app.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/src/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/src/app.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/tsconfig.build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/jest-e2e.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22zaNWnrlgTrcczH8OGBFKRaWGL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\PROJECT\test-nestjs\node_modules\prettier" />
+    <property name="ts.external.directory.path" value="C:\PROJECT\test-nestjs\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PROJECT\test-nestjs\src\server\src" />
+      <recent name="C:\PROJECT\test-nestjs\src\server" />
+      <recent name="C:\PROJECT\test-nestjs\src\client" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6446d3c5-b306-4e67-a7fb-1ce088385e0b" name="Default Changelist" comment="" />
+      <created>1640842829788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640842829788</updated>
+      <workItem from="1640842831081" duration="10198000" />
+      <workItem from="1641782681370" duration="495000" />
+      <workItem from="1641959111115" duration="3405000" />
+      <workItem from="1641965083433" duration="2954000" />
+      <workItem from="1641969681130" duration="349000" />
+    </task>
+    <task id="LOCAL-00001" summary="install fastify for nestjs">
+      <created>1640857724802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640857724803</updated>
+    </task>
+    <task id="LOCAL-00002" summary="set in main fastify">
+      <created>1640862761923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640862761923</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dependencies files server">
+      <created>1641969463687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641969463687</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create src">
+      <created>1641969567080</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641969567080</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="install fastify for nestjs" />
+    <MESSAGE value="set in main fastify" />
+    <MESSAGE value="dependencies files server" />
+    <MESSAGE value="create src" />
+    <option name="LAST_COMMIT_MESSAGE" value="create src" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1641783179302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1641783179302" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1641969574080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1641969574080" />
+    <state x="634" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1641969584404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="634" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1641969584404" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1641963547032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1641963547032" />
+  </component>
+</project>
