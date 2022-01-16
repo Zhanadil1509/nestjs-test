@@ -21,7 +21,6 @@
     "no-shadowed-variable": true,
     "no-switch-case-fall-through": true,
     "no-tautology-expression": true,
-    "no-unused-variable": true,
     "no-var-keyword": true,
     "static-this": true,
     "switch-default": true,
@@ -63,7 +62,8 @@
     ],
     "linterOptions": {
       "exclude": [
-        "./src/**/*.d.ts"
+        "node_modules/**",
+        "**/*.d.ts"
       ]
     }
   }
