@@ -1,7 +1,7 @@
 FROM node:14.17.4
 WORKDIR /server
 COPY . /server/
-RUN npm run build
+RUN npm install --production
 
 EXPOSE 8080
 
