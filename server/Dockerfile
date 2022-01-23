@@ -1,11 +1,12 @@
 FROM node:14.17.4
 WORKDIR /server
-COPY . /server/
-RUN npm install --production
 
-EXPOSE 8080
+COPY package.json ./
 
-RUN npm run prebuild
-RUN npm run build
+RUN npm install
 
-CMD ["node", "dist/main.js"]
+COPY . .
+
+EXPOSE 5000
+
+CMD [ "npm", "run", "start:dev" ]
