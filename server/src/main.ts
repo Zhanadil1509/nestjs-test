@@ -11,6 +11,7 @@ async function bootstrap() {
     AppModule,
     new FastifyAdapter()
   );
+  app.setGlobalPrefix('api')
   app.useStaticAssets({
     root: join(__dirname, '..', 'public'),
     prefix: '/public/',
@@ -20,6 +21,7 @@ async function bootstrap() {
       handlebars: require('handlebars'),
     },
     templates: join(__dirname, '..', 'views')
+    
   })
   await app.listen(8080, '0.0.0.0');
 }
