@@ -2,7 +2,7 @@ import create from 'zustand'
 
 type Custom = {
     bears: number,
-    increasePopulation: any
+    increasePopulation: () => void
 }
 
 export const useCustom = create<Custom>(set => ({
