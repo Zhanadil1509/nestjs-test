@@ -8,6 +8,7 @@ type Cart = {
     clearCart: () => void,
     addToCart: (params: any) => void,
     updateCart: (params: any) => void,
+    removeFromCart: (params: any) => void,
 }
 
 export const useCart = create(persist<Cart>((set, get) => ({
